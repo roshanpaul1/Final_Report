@@ -6,10 +6,11 @@
 
 1. For this Sprint I was teamed up with Lara as the Developers.
 1. I was responsible for drawing, adding and styling web pages.
-1. Designed the website on paper with my team, and pushed the images to Google drive and Github.
-1. Finalized all frameworks, database and operating system as a team.
-1. Attended team meetings whenever needed.
+1. Added building locations to the user form for IIT Main Campus.
+1. Continued to work with visual studio code and developed our website.
+1. Helped to get the live demo site working.
 1. We were also responsible for deploying the infrastructure and code.
+1. Attended team meetings whenever needed.
 1. The following are the screenshots for Trello and Github commit history.
 
 ![Sprint Trello Card](images/sprint4_trello.PNG)
@@ -21,25 +22,26 @@
 ![Sprint Public Key](images/sprint4_publickey.PNG)
 
 
-![Github History Commit](images/sprint4_github.PNG)
-
 ### Sprint 5
 
-1. For this Sprint, I was the Project Manager and worked on overall of this project.
-1. Collected individual data from each and every team member, and was responsible for managing resources, team members and achieving set goals for the next sprint.
-1. I was responsible for preparing reports and demonstrating on how the application was build.
-1. I was also responsible for allocating any types of issues in Github.
-1. As the team had a lack of prior experience in web development skills, helped out in researching different kinds of tools.
-1. Managed trello and slack platforms and was responsible for assigning any given roles to my team members during the whole sprint 2 period.
-1. Conducted different team meetings and individual meetings with the team members to ensure everything would be finished before any given deadline.
-1. Created the report for sprint 2 via Google drive and Github using .md file.
-1. Decided goal/plans/tasks for the next sprint.
+1. For this Sprint, I was the Junior Developer.
+1. Worked on adding building locations to the user form, as it kept on giving errors.
+1. Wrote scripts and made an algorithm for voting gallery page and saved it on google drive for future references.
+1. Collaborated to establish a fully functional website after class, to make it working.
+1. Helped in Database setup and to fix database and script errors.
+1. Determined on how to implement severity level of issues like priority level for voting gallery.
+1. Worked on user authentication, and styling the web pages.
+1. Attended team meetings whenever needed.
 1. The following are the screenshots for Trello and Github commit history.
 
-![Sprint Trello Card](images/Sprint2_Trello.PNG)
+![Sprint Trello Card](images/sprint5_trello.PNG)
 
 
-![Github History Commit](images/Sprint2_Github.PNG)
+![Sprint Trello Card](images/sprint5_trello1.PNG)
+
+
+![Sprint Trello Card](images/sprint5_trello2.PNG)
+
 
 ### Sprint 6
 
@@ -56,10 +58,4 @@
 1. Redesigned the website using FLUID.io from draw.io.
 1. The following are the screenshots for Trello and Github commit history.
 
-![Sprint Trello Card](images/Sprint3_Trello.PNG)
-
-
-![Sprint Trello Card](images/Sprint3.1_Trello.PNG)
-
-
-![Github History Commit](images/Sprint3_Github.PNG)
+![Sprint Trello Card](images/sprint5_trello2.PNG)
