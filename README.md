@@ -4,18 +4,24 @@
 
 ### Sprint 4
 
-1. For this Sprint I was teamed up with Dhruvesh as the IT Operations.
-1. I was responsible for documenting and drawing some rough images for the infrastructure.
+1. For this Sprint I was teamed up with Lara as the Developers.
+1. I was responsible for drawing, adding and styling web pages.
 1. Designed the website on paper with my team, and pushed the images to Google drive and Github.
 1. Finalized all frameworks, database and operating system as a team.
 1. Attended team meetings whenever needed.
-1. We were also responsible for deploying the infrastructure and code, as this was our first sprint we used paper prototyping method for all the infrastructure designs.
+1. We were also responsible for deploying the infrastructure and code.
 1. The following are the screenshots for Trello and Github commit history.
 
-![Sprint Trello Card](images/Sprint1_Trello.PNG)
+![Sprint Trello Card](images/sprint4_trello.PNG)
 
 
-![Github History Commit](images/Sprint1_Github.PNG)
+![Sprint Trello Card](images/sprint4_trello1.PNG)
+
+
+![Sprint Public Key](images/sprint4_publickey.PNG)
+
+
+![Github History Commit](images/sprint4_github.PNG)
 
 ### Sprint 5
 
