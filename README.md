@@ -59,5 +59,8 @@
 ![Sprint Trello Card](images/sprint6_trello1.PNG)
 
 
-
 ![Sprint Trello Card](images/sprint6_trello2.PNG)
+
+
+## THANK YOU
+### Just wanted to thank you for all the knowledge you passed, to all of us in this semester. Thanks for this amazing and challenging spring 2019.
