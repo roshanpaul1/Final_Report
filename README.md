@@ -37,8 +37,6 @@
 ![Sprint Trello Card](images/sprint5_trello.PNG)
 
 
-![Sprint Trello Card](images/sprint5_trello1.PNG)
-
 
 ![Sprint Trello Card](images/sprint5_trello2.PNG)
 
