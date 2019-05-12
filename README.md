@@ -45,17 +45,20 @@
 
 ### Sprint 6
 
-1. For this Sprint I was the UI/UX Developer and worked as a front end developer designing and documenting the website design.
-1. Generated SSH keys to Github.
-1. I was researching more on how to use Pycharm and Django web framework for data management.
-1. Setup of Pycharm for enhanced test environment and continued optimization of the test environment.
-1. Project deployment via packer/vagrant.
-1. Looked at existing website examples to analyze and redesign our website.
-1. Changed the overall web design by adding new colors and fonts to the website design using FluidUI.
-1. Created the whole infrastructure of the website and uploaded the links to Google drive.
-1. Created mockup login page, welcome page, newfeed, current issue form, new issue form and daily reports page.
-1. Attended team meetings, to help out other team members and worked as a team in any given issues.
-1. Redesigned the website using FLUID.io from draw.io.
+1. For this Sprint I was the Developer and worked to make sure that we get our live demo working of our actual site.
+1. Fix alignment of the website elements via CSS.
+1. Tested the website live with all other participant users.
+1. Helped with coding the functionality of the voting gallery.
+1. Teamed up with Dhruv to design and make a fully functional website.
+1. Helped the project manager with the sprint reports.
+1. Helped to create default images for the categories of maintenance issues.
 1. The following are the screenshots for Trello and Github commit history.
 
-![Sprint Trello Card](images/sprint5_trello2.PNG)
+![Sprint Trello Card](images/sprint6_trello.PNG)
+
+
+![Sprint Trello Card](images/sprint6_trello1.PNG)
+
+
+
+![Sprint Trello Card](images/sprint6_trello2.PNG)
